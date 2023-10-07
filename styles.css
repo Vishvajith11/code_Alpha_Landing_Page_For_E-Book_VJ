@@ -1,0 +1,144 @@
+.h1{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+.h3{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+.image{
+    width: 275px;
+    
+    margin-top: 170px;
+    margin-left: 200px;
+    display: inline;
+    background-attachment: fixed;
+    transform: rotate(-25deg);
+    transform-origin: top left;
+    
+
+}
+body{
+    
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(to bottom right, #0074e4 50%, white 50%);
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: 100% 100%;
+}
+
+.name{
+    
+    margin-top: 500px;
+    display: inline;
+    margin-left: 1000px;
+}
+
+
+
+
+
+.para{
+    color: #e400d9;
+    font-size: 25px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.box {
+    width: 400px;
+    height: 450px;
+    border: none;
+    padding: 10px;
+    margin : 10px;
+    position: absolute;
+    left: 800px;
+    bottom: 50px;
+    background-color: rgb(223, 223, 223);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+  }
+  .name1{
+    width: 390px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    border: none;
+    
+  }
+
+  .button{
+    position: relative;
+    top:20px;
+    left:120px;
+    padding-left: 55px;
+    padding-right: 55px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: #e400d9;
+    color: white;
+    font-weight: bolder;
+    border-radius: 5px;
+    border: none;
+
+  }
+
+  .button:hover{
+    color: #e400d9;
+    background-color: white;
+  }
+  .book{
+    color: black;
+    font-weight: bolder;
+    font-size: 20px;
+    position: absolute;
+    left: 40px;
+    text-align: center;
+  }
+  .author{
+    color: rgb(0, 0, 0);
+    position: absolute;
+    left: 80px;
+    text-align: center;
+    margin-top:70px;
+    margin-left: -30px;
+    opacity: 50%;
+  }
+
+  .book1{
+    color: black;
+    font-weight: bolder;
+    font-size: 20px;
+    position: absolute;
+    left: 380px;
+    text-align: center;
+  }
+  .author1{
+    color: rgb(0, 0, 0);
+    position: absolute;
+    left: 80px;
+    text-align: center;
+    margin-top:70px;
+    margin-left: 325px;
+    opacity: 50%;
+  }
+
+  footer {
+    background-color:#0074e4;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 154px;
+}
+
+footer p {
+    margin: 0;
+}
+
+input::placeholder {
+    font: 1.25rem/3 sans-serif;
+}
+
+  
